@@ -11,10 +11,10 @@ it possible to solve problems with a data-driven approach.
 
 I began my machine learning journey when I first saw face filters and facial recognition apps being deployed on smartphone technology. The fact that computer science and mathematics had evolved to the point where such an amazing feat could be performed in miliseconds on a  smart phone really inspired me to study machine learning problem.
 
-### About This Github
+### My Project Gala
 
-On this github, you'll find most of my projects from major portfolio pieces to quick implementations of ML models on small and clean data sets.
-My hope is to use this github as a library of knowledge I have encountered (and will encounter) on my data science journey. 
+Below is a select list of projects I've completed. I also plan on using this github for smaller, exercise-level projects so feel free to click around and look at some of my repos!
+- <a href='https://github.com/hermanyu/the-onion-classifier'> The Onion Classifier: Exploring Fake News Headline Detection Using NLP </a>
 
 ### Current Areas of Interest
 
