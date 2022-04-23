@@ -18,16 +18,14 @@ Below is a select list of projects I've completed. I also plan on using this git
 - <a href='https://github.com/hermanyu/Intel-Image-Classification'> Intel's Image Classification Challenge: A 5-Hour Hack-a-thon </a>.
 - <a href='https://github.com/hermanyu/LinDHA'> Linear Data Housing Appraiser (LinDHA) </a>.
 
+### Personal Growth and Education
+- <a href='https://github.com/hermanyu/PyTorch-Notes'> Learning PyTorch </a>
+
 ### Current Areas of Interest
 
 Currently, I am primarily interested on in applications and implementations of neural networks. That being said, I don't believe deep learning is necessarily the go-to answer
 for every class of machine learning problem. Therefore, another major area of interest for me is to develop a better understanding of cases where
 classical ML models like Logistic Regression or ensemble tree methods are more resource-effective than deep learning models.
-
-### Future Plans
-
-In the future, I plan on learning SQL and doing a few projects involving database querying. I also plan on developing a more robust understanding of data structures and
-may develope a few projects in Java.
 
 
 
