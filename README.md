@@ -14,18 +14,20 @@ I began my machine learning journey when I first saw face filters and facial rec
 ### My Project Gala
 
 Below is a select list of projects I've completed. I also plan on using this github for smaller, exercise-level projects so feel free to click around and look at some of my repos!
+- <a href='https://github.com/hermanyu/hm-recommender'> H&M Recommender System and Dress Finder App </a>
 - <a href='https://github.com/hermanyu/the-onion-classifier'> The Onion Classifier: Exploring Fake News Headline Detection Using NLP </a>.
 - <a href='https://github.com/hermanyu/Intel-Image-Classification'> Intel's Image Classification Challenge: A 5-Hour Hack-a-thon </a>.
 - <a href='https://github.com/hermanyu/LinDHA'> Linear Data Housing Appraiser (LinDHA) </a>.
 
 ### Personal Growth and Education
 - <a href='https://github.com/hermanyu/PyTorch-Notes'> Learning PyTorch </a>
+- <a href='https://github.com/hermanyu/R-Tutorial'> Learning R </a>
 
 ### Current Areas of Interest
 
-Currently, I am primarily interested on in applications and implementations of neural networks. That being said, I don't believe deep learning is necessarily the go-to answer
-for every class of machine learning problem. Therefore, another major area of interest for me is to develop a better understanding of cases where
-classical ML models like Logistic Regression or ensemble tree methods are more resource-effective than deep learning models.
+My primary area of interest is the application of data science and machine learning to solve marketing challenges for B2B businesses. Some specific topics of interest and learning include recommender systems, user base segmentation, panel regression and econometric methods, and statistical/casual inferences for data analytics.
+
+A secondary area of interest for me is data engineering and backend software development with the goal of eventually deploying web-based real-time ML applications and general DevOps/MLOps. Specific topics I am currently learning (or planning to in the near future) include OOP via Java, data structures/algorithms, x86 architecture and assembly language, shell scripting in Unix, and cloud solutions via Microsoft Azure.
 
 
 
