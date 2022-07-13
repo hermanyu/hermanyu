@@ -2,6 +2,7 @@
 
 Hello! My name is Herman Yu and welcome to my github! Here you will find a portfolio of all of my data science, machine learning, and programming projects.
 
+<img src='images/csulb_grad_photo.jpg'>
 
 ### About Me
 
