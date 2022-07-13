@@ -14,7 +14,7 @@ I am a data scientist and primarily work on data science and machine learning pr
 a career in Data Science because of the interesting and hands-on problems being studied in the field. Advances in cloud computing and big data have also made 
 it possible to solve problems with a data-driven approach.
 
-I began my machine learning journey when I first saw face filters and facial recognition apps being deployed on smartphone technology. The fact that computer science and mathematics had evolved to the point where such an amazing feat could be performed in miliseconds on a  smart phone really inspired me to study machine learning problem.
+I began my machine learning journey when I first saw face filters and facial recognition apps being deployed on smartphone technology. The fact that computer science and mathematics had evolved to the point where such an amazing feat could be performed in miliseconds on a  smart phone really inspired me to delve into the world of data, programming, and machine learning.
 
 <br>
 
